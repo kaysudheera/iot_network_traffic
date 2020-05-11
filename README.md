@@ -1,6 +1,6 @@
-- Note -
+# Note 
 
-The dataset is from normal network traffic captured from 16 IoT devices. 
+The dataset depicts normal network traffic captured from 16 IoT devices. 
 
 Please cite the following work when you use this dataset for your research:
 
