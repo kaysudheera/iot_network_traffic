@@ -1,5 +1,5 @@
 # iot_network_traffic
-- network traffic captured from deployed IoT devices
+network traffic captured from deployed IoT devices
 
 Please cite the following work when you use this dataset for your research:
 
